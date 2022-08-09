@@ -1,0 +1,39 @@
+h1{
+    font-size: 70px;
+    margin-top: 10px;
+    font-weight: 100;
+    margin-bottom: 0%;
+
+}
+
+p{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.information input{
+    height: 25px;
+}
+
+label{
+    font-size: 15px;
+}
+
+.information label{
+    display: flex;
+    margin-bottom: 5px;
+    margin-top: 10px;
+
+}
+
+.radio label{
+    display: inline-block;
+    margin-bottom: 16px;
+}
+
+.check label{
+    display: inline-block;
+    margin-bottom: 16px; 
+}
